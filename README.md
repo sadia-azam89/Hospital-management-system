@@ -15,6 +15,8 @@ update(): Updates the room number and ward number of a patient record.
 
 **And here's an overview of the methods available in the Room class:**
 empty(): Checks if the room linked list is empty.
-insert_end_room(): Inserts a new room record at the end of the room linked list.
+insert_end_room(): Inserts a new room record at the end of the room-linked list.
 traverse_room(): Traverses and displays all room records.
 searchRoom(): Searches for a room record with a given room number.
+
+The platform i used for the implementation of code is VISUAL STUDIO
